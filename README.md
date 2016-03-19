@@ -5,7 +5,11 @@ This is the official JST-US team's map.
 
 Download the latest version of our map [here](https://github.com/JST-US/pa-map/releases/latest/) :
 
+Somes Screens
+---
+![image](https://cloud.githubusercontent.com/assets/10818450/13901661/0dda8fe6-ee2b-11e5-9de8-9cf742be4def.png)
 
+---
 :uk: Installation
 --------
 1. Open the System designer
