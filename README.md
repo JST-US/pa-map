@@ -16,6 +16,8 @@ Download the latest version of our map [here](https://github.com/JST-US/pa-map/r
     ![image](https://cloud.githubusercontent.com/assets/10818450/13901544/db522fc8-ee27-11e5-8acd-67459f9222d4.png)
 3. And search for the file ```jst-us.pas```
 
+    ![image](https://cloud.githubusercontent.com/assets/10818450/13901621/3999dfca-ee2a-11e5-9ee6-e92199ee23a2.png)
+
 :fr: Installation
 --------
 
