@@ -3,7 +3,7 @@ pa-map
 
 This is the official JST-US team's map.
 
-Download the latest version of our map [here](https://github.com/JST-US/pa-map/releases/latest/download) :
+Download the latest version of our map [here](https://github.com/JST-US/pa-map/releases/latest/) :
 
 
 :uk: Installation
